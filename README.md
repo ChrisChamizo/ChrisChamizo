@@ -7,7 +7,8 @@ Hi there,I'm Christian Chamizo, junior software developer
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop efficient software solutions.
-🎓 &nbsp; I'm currently studying Systems Analyst at the National University of General Sarmiento (UNGS) and taking a FullStack web development course at the Utn.\
+🎓 &nbsp; I'm currently studying Systems Analyst at the National University of General Sarmiento (UNGS) 
+    and taking a FullStack web development course at the Utn.\
 🌱 &nbsp;In my free time, I look for programming challenges on different platforms and try to solve them.\
 💬 &nbsp;You can contact me for any questions. I am available for whatever is needed.\
 ✉️ &nbsp;You can shoot me an email at Christianchamizo@live.com.ar I'll try to respond as soon as I can.\
