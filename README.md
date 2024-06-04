@@ -3,7 +3,7 @@ Hi there,I'm Christian Chamizo, junior software developer 👋
  
  About Me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 100></picture>
 
 &nbsp
 💡 &nbsp;I like to explore new technologies and develop efficient software solutions.
