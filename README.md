@@ -4,6 +4,11 @@ Hi there,I'm Christian Chamizo, junior software developer 👋
 
 ### 👨🏻‍💻 &nbsp;About Me
 
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
 💡 &nbsp;I like to explore new technologies and develop efficient software solutions.
 🎓 &nbsp; I'm currently studying Systems Analyst at the National University of General Sarmiento
  and taking a FullStack web development course at the Utn.\
