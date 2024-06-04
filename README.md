@@ -3,12 +3,13 @@ Hi there,I'm Christian Chamizo, junior software developer 👋
  <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
  ### About Me
+ 
 💡 &nbsp;I like to explore new technologies and develop efficient software solutions. \
 🎓 &nbsp; I'm currently studying Systems Analyst at the National University of General Sarmiento
  and taking a FullStack web development course at the Utn.\
 🌱 &nbsp;In my free time, I look for programming challenges on different platforms and try to solve them.\
 💬 &nbsp;You can contact me for any questions. I am available for whatever is needed.\
-✉️ &nbsp;You can shoot me an email at Christianchamizo@live.com.ar I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at Christianchamizo@live.com.ar I'll try to respond as soon as I can
 
 
 <a target="_blank" href="https://www.Christian Chamizo.gr"><img src="https://github.com/ChrisChamizo/ChrisChamizo/blob/main/Group%203.png"/></a>
