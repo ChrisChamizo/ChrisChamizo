@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi there,I'm Christian Chamizo, junior software developer 
+Hi there,I'm Christian Chamizo, junior software developer 👋
 
 
 ### 👨🏻‍💻 &nbsp;About Me
