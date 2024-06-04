@@ -1,6 +1,6 @@
 <h1 align="center">
 Hi there,I'm Christian Chamizo, junior software developer 
-<a target="_blank" <img src="https://github.com/ChrisChamizo/main/Group%203.png"/></a>		
+
 
 ### 👨🏻‍💻 &nbsp;About Me
 
