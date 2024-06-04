@@ -14,7 +14,7 @@ Hi there,I'm Christian Chamizo, junior software developer
 ✉️ &nbsp;You can shoot me an email at Christianchamizo@live.com.ar I'll try to respond as soon as I can.\
 
 
-<img align="center" alt="Schleidens" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+<a target="_blank" href="https://www.Christian Chamizo.gr"><img src="https://github.com/ChrisChamizo/ChrisChamizo/blob/main/Group%203.png"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 
