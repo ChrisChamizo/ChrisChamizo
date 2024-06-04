@@ -11,7 +11,7 @@ Hi there,I'm Christian Chamizo, junior software developer 👋
 💬 &nbsp;You can contact me for any questions. I am available for whatever is needed.\
 ✉️ &nbsp;You can shoot me an email at Christianchamizo@live.com.ar I'll try to respond as soon as I can
 
-<a target="_blank" href="https://www.Christian Chamizo.gr"><img src="https://github.com/ChrisChamizo/ChrisChamizo/blob/main/Group%203.png"/></a>
+<img src="https://github.com/ChrisChamizo/ChrisChamizo/blob/main/Group%203.png"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 
