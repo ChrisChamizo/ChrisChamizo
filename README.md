@@ -1,12 +1,11 @@
 <h1 align="center">
 Hi there,I'm Christian Chamizo, junior software developer 👋
-
-
- 👨🏻‍💻 &nbsp;About Me
+ 
+ About Me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
+&nbsp
 💡 &nbsp;I like to explore new technologies and develop efficient software solutions.
 🎓 &nbsp; I'm currently studying Systems Analyst at the National University of General Sarmiento
  and taking a FullStack web development course at the Utn.\
