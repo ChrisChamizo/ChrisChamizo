@@ -11,8 +11,6 @@ Hi there,I'm Christian Chamizo, junior software developer 👋
 💬 &nbsp;You can contact me for any questions. I am available for whatever is needed.\
 ✉️ &nbsp;You can shoot me an email at Christianchamizo@live.com.ar I'll try to respond as soon as I can
 
-<img src="https://github.com/ChrisChamizo/ChrisChamizo/blob/main/Group%203.png"/></a>
-
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
