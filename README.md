@@ -44,4 +44,4 @@ Hi there,I'm Christian Chamizo, junior software developer 👋
 
 <p align="center">
 <a href="mailto:Christianchamizo@live.com.ar"><img src="https://img.shields.io/badge/Christianchamizo@live.com.ar-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/chrischamizo"><img src="https://img.shields.io/badge/https://www.linkedin.com/in/chrischamizo0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/chrischamizo"><img src="https://img.shields.io/badge/chrischamizo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
