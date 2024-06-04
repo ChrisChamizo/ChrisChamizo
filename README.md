@@ -1,7 +1,7 @@
 <h1 align="center">
 Hi there,I'm Christian Chamizo, junior software developer 
 	<a href="https://github.com/Bouaskaoun" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+		<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Taabannn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 	</a>
 
 ### 👨🏻‍💻 &nbsp;About Me
